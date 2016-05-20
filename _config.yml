@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Fly me to the moon 逐月
+title: 逐月 - Fly me to the moon 
 email: tshu92@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the website of Frederick Smiles (Yu Shu).
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fredys.xyz" # the base hostname & protocol for your site
 
 twitter_username: yfs666
