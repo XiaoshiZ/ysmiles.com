@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Hello! Thank you!"
+title:  "First Post"
 date:   2016-05-17 12:27:00 -0400
 categories: jekyll update
 ---
-Interesting!
+Hello everyone! This is my first post.
