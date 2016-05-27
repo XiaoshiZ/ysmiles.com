@@ -26,9 +26,9 @@
           </li>
           {% endif %}
           
-          {% if site.weibo_username %}
+          {% if site.weibo_username_en %}
           <li>
-            {% include icon-weibo.html username=site.weibo_username %}
+            {% include icon-weibo.html username=site.weibo_username_en username_cn=site.weibo_username_cn %}
           </li>
           {% endif %}
         </ul>

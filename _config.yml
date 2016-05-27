@@ -9,13 +9,14 @@
 title: 逐月 - Fly me to the moon 
 email: tshu92@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is the website of Frederick Smiles (Yu Shu).
+  This is the personal website of Frederick Smiles (Yu Shu).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fredys.xyz" # the base hostname & protocol for your site
 
 twitter_username: yfs666
 github_username:  ysfree
-weibo_username: 卷云先生
+weibo_username_cn: 卷云先生
+weibo_username_en: FrederickSmiles
 
 # Build settings
 markdown: kramdown
