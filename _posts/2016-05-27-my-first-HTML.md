@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Learning HTML"
+date:   2016-05-27 12:25
+---
+This is the first html file I have written.
+
+{% highlight html %}
 <!DOCTYPE html>
 <html>
     <head>
@@ -40,3 +48,4 @@
         <p>I have a date on <time datetime="2008-02-14 20:00">Valentines day</time>.</p>
     </body>
 </html>
+{% endhighlight %}
