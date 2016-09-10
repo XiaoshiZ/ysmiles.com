@@ -1,9 +1,17 @@
 ---
-layout: post
-title:  "First Post - how to make a website by Jekyll"
-date:   2016-05-17 12:27:00 -0500
+layout:     post
+title:      "First Post - how to make a website by Jekyll"
+subtitle:   " \"Hello World, Hello Blog\""
+author:     "YS"
+date:       2016-05-17 12:27:00 -0500
+header-img: "img/post-bg-2015.jpg"
+catalog:    true
+header-mask: 0.3
+tags:
+    - Life
 ---
-Hello everyone! This is my first post.
+
+## Hello everyone! This is my first post.
 
 In this post, I will teach you how to make a website just like this one using [Jekyll](https://jekyllrb.com).
 Even if you know nothing about how to write a webpage, it will only take few minutes.
@@ -18,5 +26,7 @@ Then in command prompt use *jekyll new blog* to creat a new project or just fork
 Open your browser, type in http://localhost:4000/, press Enter and that's it!
 
 You may notice this is just a rewrite of Burela's method. I post this just for a review of the contents myself.
+
+## This line is for the demonstration of catalog.
 
 Have a good day!
