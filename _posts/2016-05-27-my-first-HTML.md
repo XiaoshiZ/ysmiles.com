@@ -2,7 +2,10 @@
 layout: post
 title:  "Learning HTML"
 date:   2016-05-27 12:25
+tags:
+    - HTML
 ---
+
 This is the first html file I have written.
 
 {% highlight html %}

@@ -21,12 +21,12 @@ First, you could go to [Burela's House-O-Blog](https://davidburela.wordpress.com
 to find the easily way to install Jekyll by [Chocolatey](https://chocolatey.org/).
 Follow his steps and it only takes 2 steps.
 
-Then in command prompt use *jekyll new blog* to creat a new project or just fork this project at Github. After going into the folder (*cd blog*), use *jekyll serve* to start the service.
+Then in command prompt use *Jekyll new blog* to creat a new project or just fork this project at Github. After going into the folder (*cd blog*), use *Jekyll serve* to start the service.
 
 Open your browser, type in http://localhost:4000/, press Enter and that's it!
 
 You may notice this is just a rewrite of Burela's method. I post this just for a review of the contents myself.
 
-## This line is for the demonstration of catalog.
+## This line is for demonstration of catalog.
 
 Have a good day!

@@ -15,7 +15,7 @@ url: "http://fredys.xyz" # the base hostname & protocol for your site
 
 # settings from original Hux Blog
 SEOTitle: 逐月 - fly me to the moon
-header-img: img/home-bg.jpg
+header-img: img/site-bg.jpg
 # description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "Yu Shu, Frederick, Smiles"
 
@@ -58,7 +58,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: ysfree
+disqus_username: fredys
 
 # Duoshuo settings
 # duoshuo_username: huxblog
