@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 逐月 - Fly me to the moon 
+title: Frederick Smiles
 email: tshu92@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the personal website of Frederick Smiles (Yu Shu).
@@ -14,23 +14,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://fredys.xyz" # the base hostname & protocol for your site
 
 # settings from original Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: 逐月 - fly me to the moon
 header-img: img/home-bg.jpg
 # description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
 keyword: "Yu Shu, Frederick, Smiles"
 
-# SNS settings
-twitter_username: yfs666
+# SNS sett1gs
+RSS: false
+# twitter_username: yfs666
 zhihu_username:   ysfree
 github_username:  ysfree
 weibo_username: FrederickSmiles
-
-# weibo_username_cn: 卷云先生
-
-# SNS settings from original Hux Blog
-RSS: false
-
-# facebook_username:  huxpro
+weibo_username_cn: 卷云先生
+facebook_username:  ysfrederick
 # linkedin_username:  firstname-lastname-idxxxx
 
 
