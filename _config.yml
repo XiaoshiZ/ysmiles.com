@@ -93,10 +93,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "AAA",
-        href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
+        title: "FSU",
+        href: "http://fsu.edu"
     }
 ]
