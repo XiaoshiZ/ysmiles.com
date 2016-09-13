@@ -2,12 +2,12 @@ from time import strftime
 
 title = input("title: ")
 subtitle = input("subtitle: ")
-author = input("author: ") or 'YS'
+author = input("author: ") or 'Frederick Smiles'
 date = strftime("%Y-%m-%d %H:%M") 
 headerimg = input("header-img: ")
 catalog = input("catalog: ") or 'true'
 headermask = input("herader-mask: ")
-tags = input("tags: ") or 'unclassified'
+tags = input("tags: ")
 tags = tags.split()
 
 filename =  '_posts/' + date[:10] + '-' + '-'.join(title.split()) + '.md'
