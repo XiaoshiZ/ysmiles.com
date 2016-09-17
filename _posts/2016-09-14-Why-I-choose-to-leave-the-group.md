@@ -25,7 +25,8 @@ Which is really meaningful to me is the knowledge I learned, the phenomena I fou
 Doing good science, by the way getting some papers with corresponding level is what I like to do in a chemical engineering PhD program.
 
 # Personal
-So let me start with my personal reasons. I will not judge anyone else here but only talk about myself.
+So let me start with my personal reasons. I won't judge anyone else here but only talk about myself.
+I will **never** say that my previous group or supervisor is bad. 
 
 I am confident about my ability. I **never** think that I am a 'bad student' who 'don't commit to research'.
 Many evidences can support this, such as my grades and already published papers.
@@ -48,7 +49,6 @@ So in the end, few days later we got double ordered ether.
 Finally, I get the conclusion that I may not be match with this group's style.
 
 The direct reason, which lead me to make final decision, is that I was blamed strictly because I did not check enough times to get a package on the day it arrived.
-
 I checked online on 3:40PM it did not arrive. Finally it arrived at 4:05PM. Because stock room close at around 4:00PM, I failed to get it on the same day.
 And for this, I was doubted 'cannot handle PhD', 'waste our time', and be suggested 'leave early'.
 
