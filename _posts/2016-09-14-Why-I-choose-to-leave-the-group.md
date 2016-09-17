@@ -46,6 +46,21 @@ But in fact on the one hand I didn't know who run out ether, no people told me t
 On the other hand, I had asked for more ether few weeks before and I didn't know the order was postponed.
 So in the end, few days later we got double ordered ether.
 
+As a student, I think I should be allowed to not know something for once or twice.
+If something is important, I will remember it for next time.
+If I knew everything, why should I come here and be a student?
+
+Also if something is not allowed, I can only promise it won't happen again.
+In my previous group, to go to lunch at 11:00AM is not allowed.
+We should 'finish our works' and then go to lunch.
+And once I did experiment to near 2:00PM, went to lunch and finished at around 2:30PM, and took a nap no more than 10 min.
+Then I was blamed for 'taking too much time for lunch' because 'others all finished their lunch'.
+I was also blamed for 'bringing here bad Chinese bad habits' (take a nap).
+I feel really angry about this.
+On the one hand, it is just a personal choice. If it is not allowed, I won't do it and that's it.
+On the other hand, what is the meaning of 'Chinese bad habits'?
+I thinks it is nothing about national or ethical level things!
+
 Finally, I get the conclusion that I may not be match with this group's style.
 
 The direct reason, which lead me to make final decision, is that I was blamed strictly because I did not check enough times to get a package on the day it arrived.
