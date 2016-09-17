@@ -53,7 +53,7 @@ I checked online on 3:40PM it did not arrive. Finally it arrived at 4:05PM. Beca
 And for this, I was doubted 'cannot handle PhD', 'waste our time', and be suggested 'leave early'.
 
 # Academic
-I treat my experiment data and knowledge seriously. I don't want to say much at this point about my previous group.
+I treat my experiment data and knowledge seriously. I don't want to say too much. But there are things I don't like.
 
 For example, I still have question about X-ray diffraction figure in my fist paper.
 The data should be correct but do not match previous published explanation.
