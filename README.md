@@ -1,3 +1,6 @@
+#Smiles
+This readme file has not been updated yet.
+
 #Hux Blog
 
 ###[View Live Hux Blog &rarr;](http://huxpro.github.io)
