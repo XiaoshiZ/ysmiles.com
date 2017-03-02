@@ -105,4 +105,4 @@ YYY
 Note here that I am OK only with how does he thought of me.
 I am not OK at all about what happened.
 
-[paperlink](https://arxiv.org/abs/1702.07200)
+[paperlink]: https://arxiv.org/abs/1702.07200
