@@ -37,7 +37,7 @@ In the end, eventhough I used fixed position, the whole measurement was not reli
 
 ### Data I collected
 Though we can see from next section the professor claims that someone else redone all of the experiments, I still found the pattern extremely similar.
-I just put my version of Fig. 3B and 3D as well as some specific lines with raw data. (Actually I have all raw data.)
+I just put my version of Fig. 3B and 3D as well as some specific lines with raw data.
 I think even someone redo these experiments, the result could not be exactly same. (Or eventhough that were the truth, I should still have credit.)
 Fig. 3C results should also come from those data.
 **Anyway I have raw data, and keep every email in record in which I sent the data to the group members.**
