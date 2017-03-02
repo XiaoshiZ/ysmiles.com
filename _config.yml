@@ -90,7 +90,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 
 # Friends
-friends: [
+friends: {
     {
         title: "FSU",
         href: "http://fsu.edu"
@@ -99,4 +99,4 @@ friends: [
         title: "SJSU",
         href: "http://sjsu.edu"
     }
-]
+}
