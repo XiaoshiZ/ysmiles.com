@@ -94,8 +94,7 @@ friends: [
     {
         title: "FSU",
         href: "http://fsu.edu"
-    }
-    {
+    }, {
         title: "SJSU",
         href: "http://sjsu.edu"
     }
