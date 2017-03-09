@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Smiles
-email: tshu92@gmail.com
+title: YSmiles
+email: ys@ysmiles.com
 description: > # this means to ignore newlines until "baseurl:"
   This is the personal website of Frederick Smiles (Yu Shu).
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -16,13 +16,13 @@ url: "http://ysmiles.com" # the base hostname & protocol for your site
 # settings from original Hux Blog
 SEOTitle: 卷云逐月
 header-img: img/site-bg.jpg
-keyword: "Yu Shu, Frederick, Smiles"
+keyword: "Yu Shu, Smiles"
 
 # SNS sett1gs
 RSS: false
 # twitter_username: yfs666
 zhihu_username:   ysfree
-github_username:  ysfree
+github_username:  ysmiles
 weibo_username: FrederickSmiles
 weibo_username_cn: 卷云先生
 facebook_username:  ysfrederick
@@ -58,7 +58,7 @@ input: GFM
 
 
 # Disqus settings
-disqus_username: fredys
+disqus_username: ysmiles
 
 # Duoshuo settings
 # duoshuo_username: 

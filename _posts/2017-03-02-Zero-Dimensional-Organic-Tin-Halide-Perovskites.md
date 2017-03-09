@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "[Some information] Highly Luminescent Bulk Quantum Materials Based on Zero-Dimensional Organic Tin Halide Perovskites"
-subtitle:   "If you are interested in this paper, these infomation you might want to know."
+title:      "[Important] Highly Luminescent Bulk Quantum Materials Based on Zero-Dimensional Organic Tin Halide Perovskites"
+subtitle:   "If you are interested in this paper, you may want to know these infomation."
 author:     "Smiles"
 date:       2017-03-02 00:48
 header-img: 
