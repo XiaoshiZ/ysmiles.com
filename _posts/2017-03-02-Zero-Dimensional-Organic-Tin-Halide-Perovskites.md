@@ -43,66 +43,16 @@ Fig. 3C results should also come from those data.
 **Anyway I have raw data, and keep every email in record in which I sent the data to the group members.**
 
 #### My version of Fig.3B as well as some lines with raw data
-![img](/img/in-post/B1Y1.png)
-![img](/img/in-post/B0Y1.png)
-![img](/img/in-post/massratio.png)
+**This part has been removed due to the request fromn original lab.**
 
 #### My version of Fig.3D as well as some lines with raw data
-![img](/img/in-post/12mA.png)
-![img](/img/in-post/13mA.png)
-![img](/img/in-post/current.png)
+**This part has been removed due to the request fromn original lab.**
 
 I think the extend Fig. 10 data should also collected by me. And nomalized output is totally meanningless.
 
 ### Emails
 Just post the real emails here witout judgement about any words.
 
-I sent an email to claim my authorship or ask for removing of the data.
-```
-Dear Dr. XXX,
-
-Congratulations for the recent paper on arXiv, “Highly Luminescent Bulk Quantum Materials Based
-on Zero-Dimensional Organic Tin Halide Perovskites”. 
-
-However, I noticed this paper had taken some data collected by me, without adding my name. So this
-email is a request for removing those data or adding my name in the author list. If you forgot it,
-please add me in. Or if you think the contribution is so tiny that cannot be taken into account, please
-remove them.
-
-Thanks very much. Now I am not in this field and don’t care one more or one less paper, but I still
-have some academic self-esteem.
-
-Best regards,
-YYY
-```
-
-I get the reply.
-```
-What a surprising email again! No data is "your data", as you were a research assistant in my lab
-and everything was paid by my fund including your tuition, your salary, and all the expenses.
-Everything you have done in my lab belongs to my lab. Asking me to remove my lab data from our paper,
-you got to be kidding me. You simplify do not deserve the authorship!
-Also ZZZ has redone all those measurements.  
-
-XXX
-```
-
-Here is my reply to the one above.
-```
-Dear Dr. XXX,
-
-Thanks for replying me and sharing your thoughts.
-I never claim that anything belongs to me. 
-Also I am not kidding, the last email is a formal request.
-If you think I don't deserve that, I am OK and have nothing to complain to you.
-
-I won't sent anymore email. Sorry for the bothering.
-
-Best regards,
-YYY
-```
-
-Note here that I am OK only with how does he thought of me.
-I am not OK at all about what happened.
+**This part has been removed due to the request fromn original lab.**
 
 [paperlink]: https://arxiv.org/abs/1702.07200
