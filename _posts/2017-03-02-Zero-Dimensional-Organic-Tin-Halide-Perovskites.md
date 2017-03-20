@@ -14,6 +14,8 @@ tags:
 
 First, I'd like to say that the following are all my own opinions (except for the emails part), the reader can choose to **believe or not**.
 
+According to the request from my previous lab. Now this article is only and totally based upon the paper we can download publicly form [arXiv][paperlink].
+
 As a previous group member, I'd like to state that this paper (I have a version downloaded on 2/27/2017 at [arXiv][paperlink]) might have used data collected by me without provide me any credit.
 Also, because I know details about some of the experiments, I'd like to point out some problem/doubt about the data.
 
@@ -43,16 +45,16 @@ Fig. 3C results should also come from those data.
 **Anyway I have raw data, and keep every email in record in which I sent the data to the group members.**
 
 #### My version of Fig.3B as well as some lines with raw data
-**This part has been removed due to the request fromn original lab.**
+**This part has been removed due to the request from my previous lab.**
 
 #### My version of Fig.3D as well as some lines with raw data
-**This part has been removed due to the request fromn original lab.**
+**This part has been removed due to the request from my previous lab.**
 
 I think the extend Fig. 10 data should also collected by me. And nomalized output is totally meanningless.
 
 ### Emails
 Just post the real emails here witout judgement about any words.
 
-**This part has been removed due to the request fromn original lab.**
+**This part has been removed due to the request from my previous lab.**
 
 [paperlink]: https://arxiv.org/abs/1702.07200
