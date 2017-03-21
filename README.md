@@ -1,10 +1,9 @@
-#Smiles
+# Smiles
 This readme file has not been updated yet.
 Please go to original Hux Blog or Clean Blog to know features.
 
 ## License
-Apache License 2.0.
-Copyright (c) 2016-2017 YSmiles.
+Apache License 2.0. Copyright (c) 2016-2017 ysmiles.
 
 This blog is derived from [Hux Blog (Apache License 2.0)](http://huxpro.github.io)
 Copyright (c) 2015-2016 Huxpro.
